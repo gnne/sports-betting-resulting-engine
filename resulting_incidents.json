@@ -1,0 +1,91 @@
+[{
+	"Id": 1,
+	"IncidentType": "Card",
+	"TeamType": "Home",
+	"PeriodType": "FirstHalf",
+	"PeriodSecondsElapsed": 30
+}, {
+	"Id": 2,
+	"IncidentType": "Goal",
+	"TeamType": "Home",
+	"PeriodType": "FirstHalf",
+	"PeriodSecondsElapsed": 454
+}, {
+	"Id": 3,
+	"IncidentType": "Corner",
+	"TeamType": "Away",
+	"PeriodType": "FirstHalf",
+	"PeriodSecondsElapsed": 567
+}, {
+	"Id": 4,
+	"IncidentType": "Corner",
+	"TeamType": "Away",
+	"PeriodType": "FirstHalf",
+	"PeriodSecondsElapsed": 1203
+}, {
+	"Id": 5,
+	"IncidentType": "Card",
+	"TeamType": "Home",
+	"PeriodType": "FirstHalf",
+	"PeriodSecondsElapsed": 1567
+}, {
+	"Id": 6,
+	"IncidentType": "Goal",
+	"TeamType": "Away",
+	"PeriodType": "FirstHalf",
+	"PeriodSecondsElapsed": 1989
+}, {
+	"Id": 7,
+	"IncidentType": "Card",
+	"TeamType": "Away",
+	"PeriodType": "FirstHalf",
+	"PeriodSecondsElapsed": 2344
+}, {
+	"Id": 8,
+	"IncidentType": "Corner",
+	"TeamType": "Home",
+	"PeriodType": "SecondHalf",
+	"PeriodSecondsElapsed": 35
+}, {
+	"Id": 9,
+	"IncidentType": "Corner",
+	"TeamType": "Home",
+	"PeriodType": "SecondHalf",
+	"PeriodSecondsElapsed": 456
+}, {
+	"Id": 10,
+	"IncidentType": "Card",
+	"TeamType": "Away",
+	"PeriodType": "SecondHalf",
+	"PeriodSecondsElapsed": 677
+}, {
+	"Id": 11,
+	"IncidentType": "Goal",
+	"TeamType": "Home",
+	"PeriodType": "SecondHalf",
+	"PeriodSecondsElapsed": 1278
+}, {
+	"Id": 12,
+	"IncidentType": "Corner",
+	"TeamType": "Away",
+	"PeriodType": "SecondHalf",
+	"PeriodSecondsElapsed": 1567
+}, {
+	"Id": 13,
+	"IncidentType": "Card",
+	"TeamType": "Away",
+	"PeriodType": "SecondHalf",
+	"PeriodSecondsElapsed": 2166
+}, {
+	"Id": 14,
+	"IncidentType": "Card",
+	"TeamType": "Home",
+	"PeriodType": "SecondHalf",
+	"PeriodSecondsElapsed": 2456
+}, {
+	"Id": 15,
+	"IncidentType": "Goal",
+	"TeamType": "Home",
+	"PeriodType": "SecondHalf",
+	"PeriodSecondsElapsed": 2567
+}]

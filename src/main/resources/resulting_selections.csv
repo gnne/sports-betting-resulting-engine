@@ -1,0 +1,12 @@
+SelectionId,MarketId,MarketName,SelectionName
+1,1,Match Winner,Home team to win match
+2,1,Match Winner,Away team to win match
+3,1,Match Winner,Match to end in a draw
+4,2,Total Goals,Over 3 Goals in match
+5,2,Total Goals,Exactly 3 Goals in match
+6,2,Total Goals,Under 3 Goals in match
+7,3,Second Half Corners Winner,Home team more corners in second half
+8,3,Second Half Corners Winner,Away team more corenrs in second half
+9,4,First Card,Home team to get first card
+10,4,First Card,Away team to get first card
+11,4,First Card,No card in game
